@@ -21,8 +21,8 @@ GALILEO_CONSOLE_URL=https://console.galileo.ai
 
 | Demo | Description |
 |------|-------------|
-| | Evaluate pre-written LLM outputs for gender bias using Galileo's custom metrics |
-| | Custom metric scorer with credit/financial context |
+| [custom-metric-gender-bias](custom-metric-gender-bias/) | Evaluate pre-written LLM outputs for gender bias using Galileo's custom metrics |
+| [custom-metric-credit-context](custom-metric-credit-context/) | Custom metric scorer that validates LLM responses match the customer's credit tier |
 | | Enforce custom business policies as real-time guardrails in Galileo Protect |
 | | Detect medical/clinical advice in LLM responses using a code-based custom metric |
 | | Classify conversations by theme (sleep, relationships) using custom metrics |
