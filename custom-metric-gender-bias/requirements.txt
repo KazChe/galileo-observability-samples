@@ -1,0 +1,11 @@
+# Galileo Gender Bias Demo - Dependencies
+# Install with: pip install -r requirements.txt
+
+# Galileo SDK - Core dependency for experiments, datasets, and metrics
+galileo>=2.0.0
+
+# Galileo Core - Schema definitions (installed with galileo, listed for clarity)
+galileo-core>=4.3.0
+
+# Environment variable management
+python-dotenv>=1.0.0
