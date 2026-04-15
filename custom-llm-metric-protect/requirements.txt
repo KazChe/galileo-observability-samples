@@ -1,0 +1,5 @@
+galileo==1.39.0
+galileo-core==3.79.1
+openai==2.29.0
+packaging
+python-dotenv==1.2.1
